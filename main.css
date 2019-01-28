@@ -17,13 +17,14 @@
     width: 20%;
     height: 400px;
     display:flex;
-    justify-content:space-evenly;
+    justify-content:space-between;
 }
 a{
     padding:10px;
 }
 #content {
     width: 70%;
+    display:flex;
 }
 
 #sidebar {
