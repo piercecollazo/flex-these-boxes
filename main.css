@@ -44,7 +44,7 @@ a{
 
 #app{
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
 
 }
 
