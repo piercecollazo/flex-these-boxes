@@ -25,6 +25,7 @@ a{
 #content {
     width: 70%;
     display:flex;
+    flex-wrap: wrap;
 }
 
 #sidebar {
