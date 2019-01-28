@@ -1,7 +1,38 @@
+
 .box-shadow {
     box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .1  );
-  }
+}
 
-  .card {
+.card {
     padding: 10px;
-  }
+}
+
+#header {
+    color: palevioletred;
+    font-size: 2em;
+}
+
+#nav {
+    width: 20%;
+    height: 400px;
+}
+
+#content {
+    width: 70%;
+}
+
+#sidebar {
+    width: 10%;
+}
+
+#footer {
+    font-size: 0.7em;
+}
+
+.card-body {
+    width: 200px;
+}
+
+.user-avatar {
+    padding-right: 10px;
+}
